@@ -55,4 +55,3 @@ Este projeto utiliza **Inteligência Artificial (IA)** para prever o **score de 
 ## Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/guisandoli/) ou envie um e-mail para **guisandolidna@gmail.com**.
-```
