@@ -4,6 +4,10 @@
 
 Este projeto utiliza **Inteligência Artificial (IA)** para prever o **score de crédito** de clientes com base em seus dados. O score pode ser classificado como **Ruim**, **OK** ou **Bom**. O objetivo é criar um modelo de IA que analise os dados dos clientes e forneça uma previsão confiável para auxiliar na tomada de decisões financeiras.
 
+## Aprendizados
+
+Neste projeto aprendi sobre Machine Learning, aprendi a utlizar o pandas para manipular dados csv, utilizar o sklearn e criar minha propria IA
+
 ## Passos do Projeto
 
 1. **Importar a base de dados**  
